@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tablet Restaurant</string>
+    <string-array name="no_of_table">
+        <item>Tovolina - 1</item>
+        <item>Tovolina - 2</item>
+        <item>Tovolina - 3</item>
+        <item>Tovolina - 4</item>
+        <item>Tovolina - 5</item>
+        <item>Tovolina - 6</item>
+        <item>Tovolina - 7</item>
+        <item>Tovolina - 8</item>
+        <item>Tovolina - 9</item>
+        <item>Tovolina - 10</item>
+        <item>Tovolina - 11</item>
+        <item>Tovolina - 12</item>
+    </string-array>
+</resources>
